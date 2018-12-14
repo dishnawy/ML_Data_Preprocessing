@@ -1,4 +1,4 @@
-# ML_Data_Preprocessing
+# ML Data Preprocessing
 A template for preprocessing data before training a machine learning model, using pandas. Sample columns are selected, as of sample test data size. Please change to fit with your data. It handles:
 
 * Importing data
